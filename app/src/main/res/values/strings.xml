@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">NavigationDrawerwithExpandableListView</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="close">close</string>
+    <string name="open">open</string>
+
+    <string-array name="enginee">
+        <item>Civil</item>
+        <item>Computer Science</item>
+        <item>Electronics</item>
+        <item>Electrical</item>
+        <item>Strength of Material</item>
+        <item>Structure </item>
+        <item>Mechanics</item>
+        <item>Geotechnics </item>
+        <item>Material</item>
+        <item>Strength of Material</item>
+        <item>Structure </item>
+        <item>Mechanics</item>
+        <item>Material</item>
+    </string-array>
+
+    <string-array name="Civil">
+        <item>Strength of Material</item>
+        <item>Structure </item>
+        <item>Mechanics</item>
+        <item>Geotechnics </item>
+        <item>Material</item>
+        <item>Material</item>
+        <item>Material</item>
+    </string-array>
+
+    <string-array name="Computer">
+        <item>DataBase</item>
+        <item>Data Structure</item>
+        <item>Automata theory</item>
+        <item>Java</item>
+        <item>C Programming</item>
+        <item>Graphics</item>
+        <item>Android</item>
+
+    </string-array>
+
+    <string-array name="Electronics">
+        <item>Basic Electronics</item>
+        <item>Data Communication</item>
+        <item>Digital Circuit</item>
+        <item>Networking</item>
+        <item>Analog Circuit</item>
+        <item>Signal</item>
+        <item>Microprocessor</item>
+
+    </string-array>
+
+    <string-array name="Electrical">
+        <item>Basic Electrical</item>
+        <item>Motors</item>
+        <item>Power System</item>
+        <item>Machine</item>
+        <item>Control System</item>
+        <item>Circuit Design</item>
+        <item>Microprocessor</item>
+    </string-array>
+</resources>
